@@ -4,6 +4,16 @@
     margin:0 auto;
     text-align: center;
 }
+@media (max-width: 760px) {
+    .form{
+        width: 60%;
+    }
+}
+@media (max-width: 540px) {
+    .form{
+        width: 90%;
+    }
+}
 .text-red{
     color: red;
 }
